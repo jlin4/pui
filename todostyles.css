@@ -1,0 +1,66 @@
+#wrapper {
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+    background-color: #5F819B;
+    font-family: Helvetica, sans-serif;
+    width: 750px;
+    height: 1334px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+
+.completed {
+    text-decoration: line-through;
+    color: #2E4272;
+}
+
+label {
+    font-family: Helvetica, "Helvetica Neue", "Avenir Book";
+    color: #2E4272;
+}
+
+form {
+    padding-top: 0px;
+    font-family: Helvetica, "Helvetica Neue", "Avenir Book";
+}
+
+input {
+    width: 30%;
+}
+
+form button {
+    margin-left: 260px;
+}
+
+.listitem button {
+   float: right;
+}
+
+#delete {
+    position: absolute;
+    margin-left: 2000px;
+}
+
+.listItem {
+    padding-right: 80px;
+    width: 400px;
+}
+
+p {
+    font-family: "Avenir Book", Helvetica, "Helvetica Neue";
+    font-size: 20px;
+    color: #FFF7BC;
+    text-align: left;
+    position: relative;
+    margin-left: 200px;
+}
+
+h1 {
+    font-family: "Avenir Book", Helvetica, "Helvetica Neue";
+    font-size: 30px;
+    color: #E1CA64;
+    text-align: center;
+    padding-top: 10px;
+}
